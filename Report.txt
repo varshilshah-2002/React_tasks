@@ -9,3 +9,7 @@ Internal and Inline css
 Made a small Book series app using props,Array Map 
 26-11-2020
 React Developer Tools,conditional rendering
+29-11-2020
+Made a Digital Clock using React Hooks.
+1-12-2020
+Learnt to make form in React
