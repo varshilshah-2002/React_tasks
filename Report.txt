@@ -7,3 +7,5 @@ Css styling and importing files in React JS
 Internal and Inline css
 23-11-2020
 Made a small Book series app using props,Array Map 
+26-11-2020
+React Developer Tools,conditional rendering
